@@ -1,4 +1,3 @@
-#Devved By Giodestroy
 on chat:
 	replace all "Cazzo" in message with "Ca**o"
 	replace all "Minchia" in message with "Min**ia"
