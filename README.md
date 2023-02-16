@@ -1,0 +1,2 @@
+# AntiSwearSkript
+By LookingDevelopment
