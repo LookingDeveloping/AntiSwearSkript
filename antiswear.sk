@@ -24,6 +24,3 @@ on chat:
 	replace all "Impiccati" in message with "Impi**ati"
 	replace all "Suicidati" in message with "Suici**ti"
 	replace all "Sgozz" in message with "Sgo**"
-	
-	
-	
